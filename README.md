@@ -45,14 +45,9 @@ A cutting-edge quantitative trading system that leverages advanced machine learn
 # Clone the repository
 git clone https://github.com/yourusername/quantitative-trading-system.git
 
-# Navigate to project directory
-cd quantitative-trading-system
-
-# Install required dependencies
-pip install -r requirements.txt
 
 # Run the Streamlit dashboard
-streamlit run trading_dashboard.py
+streamlit run app.py
 ```
 
 ## Methodology
